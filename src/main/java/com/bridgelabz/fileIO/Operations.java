@@ -1,4 +1,4 @@
-package com.bridgelabz.fileIO;
+package com.bridgelabz.CsvFiles;
 import com.opencsv.CSVReader;
 import com.opencsv.exceptions.CsvValidationException;
 import java.io.BufferedReader;
