@@ -1,4 +1,4 @@
-package com.bridgelabz.fileIO;
+package com.bridgelabz.CsvFiles;
 
 public class Contacts {
 	private String firstName;
